@@ -8,4 +8,4 @@ Optimization, Gradient Descent, Natural Gradient Descent, Quantum Natural Gradie
 Descent, Variational Quantum Circuit
 
 ### Acknowledgment
-This work in this paper is not officially published.
+The work in this paper is not officially published.
